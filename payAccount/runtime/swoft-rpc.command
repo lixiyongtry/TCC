@@ -1,0 +1,1 @@
+/usr/local/php/bin/php /www/swoft_2/payAccount/bin/swoft rpc:start
